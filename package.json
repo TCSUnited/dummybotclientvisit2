@@ -1,0 +1,17 @@
+{
+  "name": "dummybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app1.js",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "core": "^3.6.0",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
